@@ -10,7 +10,7 @@ NTU Sweety Course
 Soul Man.
 
 2. [joshzngf(b00902084 莊弘義)](https://github.com/joshzngf):
-Some fancy effects of front-end, like scheduling.
+NTUCourse rating search. 'My Courses' features. Some fancy effects of front-end, like scheduling.
 
 3. [younger50(B00902082 謝元崵)](https://github.com/younger50):
 Recommendation System. Extract course data from NTU Epo.
